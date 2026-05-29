@@ -1,0 +1,15 @@
+███████╗    ██╗   ██╗    ███████╗    ██╗    ██╗     ██████╗     ██╗    ██╗
+██╔════╝    ╚██╗ ██╔╝    ██╔════╝    ██║    ██║    ██╔═══██╗    ██║    ██║
+███████╗     ╚████╔╝     ███████╗    ██║ █╗ ██║    ██║   ██║    ██║ █╗ ██║
+╚════██║      ╚██╔╝      ╚════██║    ██║███╗██║    ██║   ██║    ██║███╗██║
+███████║       ██║       ███████║    ╚███╔███╔╝    ╚██████╔╝    ╚███╔███╔╝
+╚══════╝       ╚═╝       ╚══════╝     ╚══╝╚══╝      ╚═════╝      ╚══╝╚══╝ 
+                                                                          
+ ██████╗ ██╗  ██╗                                                         
+██╔════╝ ██║  ██║                                                         
+███████╗ ███████║                                                         
+██╔═══██╗╚════██║                                                         
+╚██████╔╝     ██║                                                         
+ ╚═════╝      ╚═╝    
+
+congratulations! you installed SysWOW64!!! its an app basically for running windows with proper conditions. to install SysWOW64, you can simply just open the .exe file and it will automatically installed on your OS folder (OS c:). good luck!                                                  
